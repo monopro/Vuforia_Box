@@ -4,7 +4,9 @@ using UnityEngine;
 
 public class Rotate : MonoBehaviour {
 
+	public Vector3 rot;
+
 	void Update () {
-		transform.Rotate (new Vector3 (0, 90, 0) * Time.deltaTime);
+		transform.Rotate (new Vector3 (rot.x, rot.y, rot.z) * Time.deltaTime);
 	}
 }
