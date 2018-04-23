@@ -107,8 +107,8 @@ MonoBehaviour:
     y: 30
     width: 1680
     height: 875
-  m_MinSize: {x: 711, y: 492}
-  m_MaxSize: {x: 18006, y: 14042}
+  m_MinSize: {x: 713, y: 492}
+  m_MaxSize: {x: 18008, y: 14042}
   vertical: 0
   controlID: 25
 --- !u!114 &6
@@ -230,8 +230,8 @@ MonoBehaviour:
     y: 0
     width: 337
     height: 875
-  m_MinSize: {x: 275, y: 50}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 277, y: 71}
+  m_MaxSize: {x: 4002, y: 4021}
   m_ActualView: {fileID: 16}
   m_Panes:
   - {fileID: 16}
@@ -374,7 +374,7 @@ MonoBehaviour:
   m_Rotation:
     m_Target: {x: 0.22543421, y: -0.00876819, z: 0.0020289624, w: 0.9742169}
     speed: 2
-    m_Value: {x: 0.22543421, y: -0.00876819, z: 0.0020289624, w: 0.9742169}
+    m_Value: {x: -0.22543423, y: 0.008768191, z: -0.0020289626, w: -0.9742169}
   m_Size:
     m_Target: 5.0815315
     speed: 2
@@ -444,9 +444,9 @@ MonoBehaviour:
     height: 386
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: ce080000
-    m_LastClickedID: 0
-    m_ExpandedIDs: 4a11fdff1637fdff6886fdff40e2fdffb6e7fdff9cfbffff00000000ce290000042e0000
+    m_SelectedIDs: 982a0000
+    m_LastClickedID: 10904
+    m_ExpandedIDs: a6fbffff00000000542b0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -517,9 +517,9 @@ MonoBehaviour:
   m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 7c290000
-    m_LastClickedID: 10620
-    m_ExpandedIDs: 00000000b2280000f02b00008e310000923100009e310000a2310000b631000000ca9a3bffffff7f
+    m_SelectedIDs: cc290000
+    m_LastClickedID: 10700
+    m_ExpandedIDs: 00000000bc280000c6280000de280000ea28000050290000582900007a29000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -547,7 +547,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000b2280000
+    m_ExpandedIDs: 00000000bc280000c6280000de280000ea28000050290000582900007a290000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -586,7 +586,7 @@ MonoBehaviour:
         y: 0
         width: 0
         height: 0
-      m_UserData: 2254
+      m_UserData: 2266
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
       m_OriginalEventType: 0
