@@ -541,6 +541,7 @@ GameObject:
   - component: {fileID: 1901651981}
   - component: {fileID: 1901651980}
   - component: {fileID: 1901651984}
+  - component: {fileID: 1901651985}
   m_Layer: 0
   m_Name: Cube
   m_TagString: Untagged
@@ -625,6 +626,18 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fef7672eec48b4e96a0b479a23dab81b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!114 &1901651985
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1901651979}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a47aeb159c33a4028b52b23b2c6c5308, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  hitsound: {fileID: 8300000, guid: 295306f3be1494b09bca20219d312762, type: 3}
 --- !u!1 &1903294446
 GameObject:
   m_ObjectHideFlags: 0
@@ -639,7 +652,7 @@ GameObject:
   - component: {fileID: 1903294447}
   m_Layer: 0
   m_Name: Ball
-  m_TagString: Untagged
+  m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
