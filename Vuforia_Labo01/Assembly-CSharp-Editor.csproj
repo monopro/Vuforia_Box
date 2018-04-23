@@ -52,6 +52,9 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Vuforia\Editor\Scripts\OpenSourceInitializer.cs" />
+     <Compile Include="Assets\WR_wHiteRabbiT-sTudio\WRFramework\Unity\Editor\Tools\AboutEW.cs" />
+     <Compile Include="Assets\WR_wHiteRabbiT-sTudio\WRFramework\Unity\Editor\Tools\ContinuationManager.cs" />
+     <Compile Include="Assets\WR_wHiteRabbiT-sTudio\WRFramework\Unity\Editor\Tools\wHiteRabbiTEW.cs" />
      <None Include="Assets\Vuforia\Shaders\ColoredLines.shader" />
      <None Include="Assets\Vuforia\Shaders\VertexLitWithZ.shader" />
      <None Include="Assets\Editor\Vuforia\VuforiaMars_VuMark\authoringinfo.xml" />
@@ -61,6 +64,7 @@
      <None Include="Assets\StreamingAssets\Vuforia\VuforiaMars_Images.xml" />
      <None Include="Assets\Vuforia\Shaders\BrightTexture.shader" />
      <None Include="Assets\StreamingAssets\Vuforia\VuforiaMars_VuMark.xml" />
+     <None Include="Assets\WR_wHiteRabbiT-sTudio\Scene\DancingRabbit\ReadMe.txt" />
      <None Include="Assets\Editor\Vuforia\CylinderTargetTextures\VuforiaMars_Images\authoringinfo.xml" />
      <None Include="Assets\Vuforia\Shaders\Text3D.shader" />
  <Reference Include="UnityEngine.UI">
