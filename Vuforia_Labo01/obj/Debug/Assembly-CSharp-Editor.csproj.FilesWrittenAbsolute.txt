@@ -98,3 +98,4 @@
 /Users/masa_fuji/Documents/Vuforia/Vuforia_Box/Vuforia_Labo01/Temp/bin/Debug/Unity.CecilTools.dll
 /Users/masa_fuji/Documents/Vuforia/Vuforia_Box/Vuforia_Labo01/Temp/bin/Debug/Unity.Cecil.Pdb.dll
 /Users/masa_fuji/Documents/Vuforia/Vuforia_Box/Vuforia_Labo01/Temp/bin/Debug/Unity.Cecil.Mdb.dll
+/Users/masa_fuji/Documents/Vuforia/Vuforia_Box/Vuforia_Labo01/Temp/bin/Debug/UnityEditor.iOS.Extensions.Xcode.xml
